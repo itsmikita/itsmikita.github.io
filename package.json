@@ -1,0 +1,9 @@
+{
+  "name": "itsmikita.github.io",
+  "version": "1.0.0",
+  "description": "Ravers gonna rave!",
+  "main": "index.js",
+  "repository": "https://github.com/itsmikita/itsmikita.github.io.git",
+  "author": "It's Mikita <2474398+itsmikita@users.noreply.github.com>",
+  "license": "MIT"
+}
